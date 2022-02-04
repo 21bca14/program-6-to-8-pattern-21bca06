@@ -19,7 +19,7 @@ void main()
 		}
 		for(k=i;k>=1;k--)
 		{
-			printf("%d",k);
+			//printf("%d",k);
 		}
 		for(l=2;l<=i;l++)
 		{
